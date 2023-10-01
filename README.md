@@ -20,7 +20,9 @@
 </tbody>
 
 </table>
-<div style="float:right; margin-left:10px;">
+
+<br>
+
 - PDMC SITE SURVEY WITH DAIKIN FOR SUPPLY AND INSTALLATION OF PACU
 <img src="https://jodvid.github.io/weekly39/assets/friday.jpg" width="400" height=auto>
 <img src="https://jodvid.github.io/weekly39/assets/friday.jpg" width="400" height=auto>
@@ -54,7 +56,7 @@
 <img src="https://jodvid.github.io/weekly39/assets/thur6.jpg" width="400" height=auto>
 
 <br>
--SITE VISIT HERITAGE PLACE RESIDETIAL PROJECT
+-SITE VISIT HERITAGE PLACE RESIDENTIAL PROJECT
 <img src="https://jodvid.github.io/weekly39/assets/tuesday.jpg" width="400" height=auto>
 <img src="https://jodvid.github.io/weekly39/assets/tuesday1.jpg" width="400" height=auto>
 <img src="https://jodvid.github.io/weekly39/assets/tuesday11.jpg" width="400" height=auto>
