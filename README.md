@@ -10,7 +10,7 @@
 <th> Project/Task Details</th>      <th> Completion</th>  <th>Remarks </th>
 </thead>
 <tbody>
-<td>SWAK BPO RELOCATION AND INSTALLATION</td>   - <td>90%</td>       <td>Drain/works and adjustment</td>  <tr>
+<td>SWAK BPO RELOCATION AND INSTALLATION</td>   <td>90%</td>       <td>Drain/works and adjustment</td>  <tr>
 <td>HANN TEMFACIL</td>                 <td>0%</td>       <td>REVISED QUOTATION TO P2,190,000.00 LOA SUBMITTED TO HANN</td>    <tr>
 <td>Aeropark 717 COFFEE SHOP</td>                 <td>PENDING FOR APPROVAL       <td>VRF SUPPLY INSTALLATION</td>   <tr>
 <td>OFFICE CLARK 10              </td>   <td>PENDING FOR APPROVAL       </td><td>SUPPLY & INSTALLATION  </td> <tr>
@@ -45,35 +45,35 @@
 
 -SWAK CONTINUOUS INSTALLATION AND RELOCATION 
 <br>
-<img src="https://jodvid.github.io/weekly39/assets/thr1.jpg" width="400" height=auto>
+<img src="https://jodvid.github.io/weekly39/assets/thr1.jpg" width="400" height=300>
 <br>
-<img src="https://jodvid.github.io/weekly39/assets/thur.jpg" width="400" height=auto>
-<img src="https://jodvid.github.io/weekly39/assets/thur1.jpg" width="400" height=auto>
-<img src="https://jodvid.github.io/weekly39/assets/thur11.jpg" width="400" height=auto>
-<img src="https://jodvid.github.io/weekly39/assets/thur112.jpg" width="400" height=auto>
-<img src="https://jodvid.github.io/weekly39/assets/thur123.jpg" width="400" height=auto>
-<img src="https://jodvid.github.io/weekly39/assets/thur1234.jpg" width="400" height=auto>
-<img src="https://jodvid.github.io/weekly39/assets/thur2.jpg" width="400" height=auto>
-<img src="https://jodvid.github.io/weekly39/assets/thur5.jpg" width="400" height=auto>
-<img src="https://jodvid.github.io/weekly39/assets/thur6.jpg" width="400" height=auto>
+<img src="https://jodvid.github.io/weekly39/assets/thur.jpg" width="400" height=300>
+<img src="https://jodvid.github.io/weekly39/assets/thur1.jpg" width="400" height=300>
+<img src="https://jodvid.github.io/weekly39/assets/thur11.jpg" width="400" height=300>
+<img src="https://jodvid.github.io/weekly39/assets/thur112.jpg" width="400" height=300>
+<img src="https://jodvid.github.io/weekly39/assets/thur123.jpg" width="400" height=300>
+<img src="https://jodvid.github.io/weekly39/assets/thur1234.jpg" width="400" height=300>
+<img src="https://jodvid.github.io/weekly39/assets/thur2.jpg" width="400" height=300>
+<img src="https://jodvid.github.io/weekly39/assets/thur5.jpg" width="400" height=300>
+<img src="https://jodvid.github.io/weekly39/assets/thur6.jpg" width="400" height=300>
 
 <br>
 -SITE VISIT HERITAGE PLACE RESIDENTIAL PROJECT
 <br>
-<img src="https://jodvid.github.io/weekly39/assets/tuesday.jpg" width="400" height=auto>
-<img src="https://jodvid.github.io/weekly39/assets/tuesday1.jpg" width="400" height=auto>
-<img src="https://jodvid.github.io/weekly39/assets/tuesday11.jpg" width="400" height=auto>
-<img src="https://jodvid.github.io/weekly39/assets/tuesday2.jpg" width="400" height=auto>
+<img src="https://jodvid.github.io/weekly39/assets/tuesday.jpg" width="400" height=300>
+<img src="https://jodvid.github.io/weekly39/assets/tuesday1.jpg" width="400" height=300>
+<img src="https://jodvid.github.io/weekly39/assets/tuesday11.jpg" width="400" height=300>
+<img src="https://jodvid.github.io/weekly39/assets/tuesday2.jpg" width="400" height=300>
 <br>
 -SITE VISIT HANN TEMPORARY FACILITIES AND STAFF HOUSE
 <br>
-<img src="https://jodvid.github.io/weekly39/assets/wed.jpg" width="400" height=auto>
-<img src="https://jodvid.github.io/weekly39/assets/wed1.jpg" width="400" height=auto>
-<img src="https://jodvid.github.io/weekly39/assets/wed11.jpg" width="400" height=auto>
-<img src="https://jodvid.github.io/weekly39/assets/wed111.jpg" width="400" height=auto>
-<img src="https://jodvid.github.io/weekly39/assets/wed1111.jpg" width="400" height=auto>
-<img src="https://jodvid.github.io/weekly39/assets/wed1111111.jpg" width="400" height=auto>
-<img src="https://jodvid.github.io/weekly39/assets/wed123.jpg" width="400" height=auto>
-<img src="https://jodvid.github.io/weekly39/assets/wed333.jpg" width="400" height=auto>
+<img src="https://jodvid.github.io/weekly39/assets/wed.jpg" width="400" height=300>
+<img src="https://jodvid.github.io/weekly39/assets/wed1.jpg" width="400" height=300>
+<img src="https://jodvid.github.io/weekly39/assets/wed11.jpg" width="400" height=300>
+<img src="https://jodvid.github.io/weekly39/assets/wed111.jpg" width="400" height=300>
+<img src="https://jodvid.github.io/weekly39/assets/wed1111.jpg" width="400" height=300>
+<img src="https://jodvid.github.io/weekly39/assets/wed1111111.jpg" width="400" height=300>
+<img src="https://jodvid.github.io/weekly39/assets/wed123.jpg" width="400" height=300>
+<img src="https://jodvid.github.io/weekly39/assets/wed333.jpg" width="400" height=300>
 
 </div>
