@@ -6,17 +6,19 @@
 **Summary Progress Report**
 
 <table>
-<thead>
-<th> Project/Task Details</th>      <th> Completion</th>  <th>Remarks </th>
-</thead>
+    <thead>
+        <tr>
+            <th> Project/Task Details</th>      <th> Completion</th>  <th>Remarks </th>
+        </tr>
+    </thead>
 <tbody>
-<td>SWAK BPO RELOCATION AND INSTALLATION</td>   <td>90%</td>       <td>Drain/works and adjustment</td>  <tr>
-<td>HANN TEMFACIL</td>                 <td>0%</td>       <td>REVISED QUOTATION TO P2,190,000.00 LOA SUBMITTED TO HANN</td>    <tr>
-<td>Aeropark 717 COFFEE SHOP</td>                 <td>PENDING FOR APPROVAL       <td>VRF SUPPLY INSTALLATION</td>   <tr>
-<td>OFFICE CLARK 10              </td>   <td>PENDING FOR APPROVAL       </td><td>SUPPLY & INSTALLATION  </td> <tr>
-<td>SWAK BPO 5TH FLOOR               </td> <td> PENDING FOR APPROVAL       </td><td> RELOCATION AND INSTALLATION</td>   <tr>
-<td>SWAK BPO KITCHEN               </td><td>PENDING FOR APPROVAL     </td>  <td>KITCHEN AND ADDITONAL ON 2ND FLOOR </td>   <tr>
-<td> WEST GO CHIEFT DUCTED TYPE ACU</td>              <td> PENDING FOR APPROVAL</td>       <td> SUPPLY & INSTALLATION</td>    <tr>
+<tr><td>SWAK BPO RELOCATION AND INSTALLATION</td>   <td>90%</td>       <td>Drain/works and adjustment</td>  </tr>
+<tr><td>HANN TEMFACIL</td>                 <td>0%</td>       <td>REVISED QUOTATION TO P2,190,000.00 LOA SUBMITTED TO HANN</td>    </tr>
+<tr><td>Aeropark 717 COFFEE SHOP</td>                 <td>PENDING FOR APPROVAL       <td>VRF SUPPLY INSTALLATION</td>   </tr>
+<tr><td>OFFICE CLARK 10              </td>   <td>PENDING FOR APPROVAL       </td><td>SUPPLY & INSTALLATION  </td> </tr>
+<tr><td>SWAK BPO 5TH FLOOR               </td> <td> PENDING FOR APPROVAL       </td><td> RELOCATION AND INSTALLATION</td>   </tr>
+<tr><td>SWAK BPO KITCHEN               </td><td>PENDING FOR APPROVAL     </td>  <td>KITCHEN AND ADDITONAL ON 2ND FLOOR </td>   </tr>
+<tr><td> WEST GO CHIEFT DUCTED TYPE ACU</td>              <td> PENDING FOR APPROVAL</td>       <td> SUPPLY & INSTALLATION</td>    </tr>
 </tbody>
 
 </table>
