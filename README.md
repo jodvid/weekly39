@@ -2,137 +2,56 @@
 
 **Weekly Progress Report**
 
-**Project/Task Details:**
-- **Project Name:** SWAK BPO RELOCATION AND INSTALLATION
 
-**Completion:**
-- 85%
+**Summary Progress Report**
+| Project/Task Details      | Completion | Remarks |
+| ------------------------- | ---------- | ------- |
+| SWAK BPO RELOCATION AND INSTALLATION   | - 90%      |  Drain/works and adjustment  |
+| HANN TEMFACIL                 | 0%       | REVISED QUOTATION TO P2,190,000.00 LOA SUBMITTED TO HANN    |
+| Aeropark 717 COFFEE SHOP                 | PENDING FOR APPROVAL       | VRF SUPPLY INSTALLATION   |
+| OFFICE CLARK 10                 | PENDING FOR APPROVAL       | SUPPLY & INSTALLATION   |
+| SWAK BPO 5TH FLOOR                | PENDING FOR APPROVAL       | RELOCATION AND INSTALLATION   |
+| SWAK BPO KITCHEN               | PENDING FOR APPROVAL       | KITCHEN AND ADDITONAL ON 2ND FLOOR    |
+| WEST GO CHIEFT DUCTED TYPE ACU              | PENDING FOR APPROVAL       | SUPPLY & INSTALLATION    |
 
-**Key Accomplishments:**
+![](assets/friday.jpg)
+![](assets/friday1.jpg)
+![](assets/friday11.jpg)
+![](assets/friday12.jpg)
+![](assets/friday2.jpg)
+![](assets/friday3.jpg)
+![](assets/friday4.jpg)
+![](assets/friday5.jpg)
+![](assets/friday6.jpg)
+![](assets/friday66.jpg)
+![](assets/friday666.jpg)
+![](assets/friday6666.jpg)
+![](assets/friday666666.jpg)
+![](assets/friday6666666.jpg)
+![](assets/friday666666666.jpg)
+![](assets/friday666666666663.jpg)
+![](assets/thr1.jpg)
+![](assets/thur.jpg)
+![](assets/thur1.jpg)
+![](assets/thur11.jpg)
+![](assets/thur112.jpg)
+![](assets/thur123.jpg)
+![](assets/thur1234.jpg)
+![](assets/thur2.jpg)
+![](assets/thur5.jpg)
+![](assets/thur6.jpg)
+![](assets/tuesday.jpg)
+![](assets/tuesday1.jpg)
+![](assets/tuesday11.jpg)
+![](assets/tuesday2.jpg)
+![](assets/wed.jpg)
+![](assets/wed1.jpg)
+![](assets/wed11.jpg)
+![](assets/wed111.jpg)
+![](assets/wed1111.jpg)
+![](assets/wed11111.jpg)
+![](assets/wed1111111.jpg)
+![](assets/wed123.jpg)
+![](assets/wed233.jpg)
+![](assets/wed333.jpg)
 
-
-| Syntax      | Description | Description |
-| ----------- | ----------- | ----------- |
-| Header      | Title       | Title       |
-| Paragraph   | Text        | Text        |
-
-- CONTINOUS RELOCATION, INSTALLATION AND LIGHT TEST 
-
-- 2ND FLOOR
-
-![](assets/2nalsdk.jpg)
-![](assets/2nalskdc.jpg)
-![](assets/2nd.jpg)
-![](assets/2nd1.jpg)
-![](assets/2nd11.jpg)
-![](assets/2nd111.jpg)
-![](assets/2nd1111.jpg)
-![](assets/2ndakljsd.jpg)
-![](assets/2ndasd.jpg)
-![](assets/2ndaskd.jpg)
-![](assets/2ndlakjd.jpg)
-![](assets/2ndlkadf.jpg)
-![](assets/2ndlkjcv.jpg)
-![](assets/2ndlkjsdf.jpg)
-
-
-- 4TH FLOOR
-
-![](assets/4th.jpg)
-![](assets/4th1.jpg)
-![](assets/4thljka.jpg)
-![](assets/4thlkdk.jpg)
-![](assets/4thlkz.jpg)
-![](assets/4thlll.jpg)
-![](assets/4thxxc.jpg)
-![](assets/4thzl.jpg)
-
-
-- 2ND FLOOR VISIT FOR ADDITIONAL ACU 
-![](assets/new2nd.jpg)
-![](assets/new2nda.jpg)
-
-- SUBMITTED PROGRESS BILLING FOR 62%
-- waiting for feedback
-
-
-**Project/Task Details:**
-- **Project Name:** MEETING WITH TIM(TOTAL INFORMATION MANAGEMENT)
-
-![](assets/tim.jpg)
-![](assets/tim0.jpg)
-![](assets/tim1.jpg)
-![](assets/tim2.jpg)
-![](assets/tim3.jpg)
-![](assets/tim4.jpg)
-![](assets/tim65.jpg)
-![](assets/tima.jpg)
-![](assets/timac.jpg)
-![](assets/timadl.jpg)
-![](assets/timal.jpg)
-![](assets/timasd.jpg)
-![](assets/timaxc.jpg)
-![](assets/timlsd.jpg)
-![](assets/timxxc.jpg)
-
-**Project/Task Details:**
-- **Project Name:** ATTENDED UAP INDUCTION
-
-![](assets/uapklz.jpg)
-![](assets/uaps.jpg)
-![](assets/uapzxc.jpg)
-
-**Project/Task Details:**
-- **Project Name:** HANN TEMFACIL
-**Completion:**
-- 0%
-**Key Accomplishments:**
-- WAITING FOR PO
-- REVISED QUOTATION TO P2,194,207.93
-
-
-**Project/Task Details:**
-- **Project Name:** Aeropark 717 COFFEE SHOP
-**Completion:**
-- 0%
-**Key Accomplishments:**
-- SITE SURVEY
-- quotation submitted
-
-
-**Project/Task Details:**
-- **Project Name:** OFFICE CLARK 10
-**Completion:**
-- 0%
-**Key Accomplishments:**
-- Negotiated Price 
-
-
-**Project/Task Details:**
-- **Project Name:** ALVIERA AVIDA
-**STATUS:**
-- CANCELLED
-
-**Project/Task Details:**
-- **Project Name:** SWAK BPO 5TH FLOOR
-**STATUS:**
-- PENDING
-
-**Project/Task Details:**
-- **Project Name:** SWAK BPO CHANGE ORDER (2ND,3RD AND 4TH)
-**STATUS:**
-- PENDING
-
-**Project/Task Details:**
-- **Project Name:** WEST GO CHIEFT DUCTED TYPE ACU
-**STATUS:**
-- PENDING
-
-
-**Project/Task Details:**
-- **Project Name:** Philredco Towers
-**Completion:**
-- 60%
-**Key Accomplishments:**
-- Preparing proposal
----
