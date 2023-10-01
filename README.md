@@ -46,6 +46,7 @@
 -SWAK CONTINUOUS INSTALLATION AND RELOCATION 
 <br>
 <img src="https://jodvid.github.io/weekly39/assets/thr1.jpg" width="400" height=auto>
+<br>
 <img src="https://jodvid.github.io/weekly39/assets/thur.jpg" width="400" height=auto>
 <img src="https://jodvid.github.io/weekly39/assets/thur1.jpg" width="400" height=auto>
 <img src="https://jodvid.github.io/weekly39/assets/thur11.jpg" width="400" height=auto>
@@ -71,10 +72,8 @@
 <img src="https://jodvid.github.io/weekly39/assets/wed11.jpg" width="400" height=auto>
 <img src="https://jodvid.github.io/weekly39/assets/wed111.jpg" width="400" height=auto>
 <img src="https://jodvid.github.io/weekly39/assets/wed1111.jpg" width="400" height=auto>
-<img src="https://jodvid.github.io/weekly39/assets/wed11111.jpg" width="400" height=auto>
 <img src="https://jodvid.github.io/weekly39/assets/wed1111111.jpg" width="400" height=auto>
 <img src="https://jodvid.github.io/weekly39/assets/wed123.jpg" width="400" height=auto>
-<img src="https://jodvid.github.io/weekly39/assets/wed233.jpg" width="400" height=auto>
 <img src="https://jodvid.github.io/weekly39/assets/wed333.jpg" width="400" height=auto>
 
 </div>
