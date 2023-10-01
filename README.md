@@ -44,6 +44,7 @@
 <br>
 
 -SWAK CONTINUOUS INSTALLATION AND RELOCATION 
+<br>
 <img src="https://jodvid.github.io/weekly39/assets/thr1.jpg" width="400" height=auto>
 <img src="https://jodvid.github.io/weekly39/assets/thur.jpg" width="400" height=auto>
 <img src="https://jodvid.github.io/weekly39/assets/thur1.jpg" width="400" height=auto>
@@ -57,12 +58,14 @@
 
 <br>
 -SITE VISIT HERITAGE PLACE RESIDENTIAL PROJECT
+<br>
 <img src="https://jodvid.github.io/weekly39/assets/tuesday.jpg" width="400" height=auto>
 <img src="https://jodvid.github.io/weekly39/assets/tuesday1.jpg" width="400" height=auto>
 <img src="https://jodvid.github.io/weekly39/assets/tuesday11.jpg" width="400" height=auto>
 <img src="https://jodvid.github.io/weekly39/assets/tuesday2.jpg" width="400" height=auto>
 <br>
 -SITE VISIT HANN TEMPORARY FACILITIES AND STAFF HOUSE
+<br>
 <img src="https://jodvid.github.io/weekly39/assets/wed.jpg" width="400" height=auto>
 <img src="https://jodvid.github.io/weekly39/assets/wed1.jpg" width="400" height=auto>
 <img src="https://jodvid.github.io/weekly39/assets/wed11.jpg" width="400" height=auto>
