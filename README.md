@@ -14,6 +14,8 @@
 | SWAK BPO KITCHEN               | PENDING FOR APPROVAL       | KITCHEN AND ADDITONAL ON 2ND FLOOR    |
 | WEST GO CHIEFT DUCTED TYPE ACU              | PENDING FOR APPROVAL       | SUPPLY & INSTALLATION    |
 
+
+- PDMC SITE SURVEY WITH DAIKIN FOR SUPPLY AND INSTALLATION OF PACU
 ![](assets/friday.jpg)
 ![](assets/friday1.jpg)
 ![](assets/friday11.jpg)
@@ -30,6 +32,8 @@
 ![](assets/friday6666666.jpg)
 ![](assets/friday666666666.jpg)
 ![](assets/friday666666666663.jpg)
+
+-SWAK CONTINUOUS INSTALLATION AND RELOCATION 
 ![](assets/thr1.jpg)
 ![](assets/thur.jpg)
 ![](assets/thur1.jpg)
@@ -40,10 +44,14 @@
 ![](assets/thur2.jpg)
 ![](assets/thur5.jpg)
 ![](assets/thur6.jpg)
+
+-SITE VISIT HERITAGE PLACE RESIDETIAL PROJECT
 ![](assets/tuesday.jpg)
 ![](assets/tuesday1.jpg)
 ![](assets/tuesday11.jpg)
 ![](assets/tuesday2.jpg)
+
+-SITE VISIT HANN TEMPORARY FACILITIES AND STAFF HOUSE
 ![](assets/wed.jpg)
 ![](assets/wed1.jpg)
 ![](assets/wed11.jpg)
